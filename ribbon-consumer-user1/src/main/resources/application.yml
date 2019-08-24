@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: consumer-user1
+server:
+  port: 8086
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8080/eureka/   #注册中心的地址
+
+say-hello:
+  ribbon:
+    eureka:
+      enabled: false
+  listOfServers: localhost:8082,localhost:8083,localhost:8084
+  ServerListRefreshInterval: 15000

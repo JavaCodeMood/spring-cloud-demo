@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-client/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbon-say-hello/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbon-consumer-user/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbon-consumer-user1/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbon-consumer-user2/pom.xml" />
+        <option value="$PROJECT_DIR$/hystrix-server-bookstore/pom.xml" />
+        <option value="$PROJECT_DIR$/hystrix-consumer-reading/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul-book/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/form-submit/pom.xml" />
+        <option value="$PROJECT_DIR$/file-upload/pom.xml" />
+        <option value="$PROJECT_DIR$/mysql-data-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/redis-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-data-demo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

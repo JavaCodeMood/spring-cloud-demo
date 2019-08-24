@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka-client" />
+        <module name="eureka-server" />
+        <module name="file-upload" />
+        <module name="form-submit" />
+        <module name="hystrix-consumer-reading" />
+        <module name="hystrix-server-bookstore" />
+        <module name="jpa-data-demo" />
+        <module name="mysql-data-demo" />
+        <module name="redis-demo" />
+        <module name="ribbon-consumer-user" />
+        <module name="ribbon-consumer-user1" />
+        <module name="ribbon-consumer-user2" />
+        <module name="ribbon-say-hello" />
+        <module name="spring-cloud-demo" />
+        <module name="zuul-book" />
+        <module name="zuul-gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ribbon-say-hello1" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
